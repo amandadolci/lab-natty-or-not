@@ -17,27 +17,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+# Business trip memories
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### 📒 Descrição
+Solicitei a criação de uma foto realista de uma mulher em um aeroporto.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+### 🤖 Tecnologias Utilizadas
+- Microsoft Copilot
+- Microsoft Designer
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+### 🧐 Processo de Criação
+Enviei esse prompt ao Copilot: "Create a realistic picture of a woman in her 30s, she's on a business trip in the ariport carrying her luggage. She has light brown short hair, shaved on the sides. She's not thin nor overweight. She's dressed as a modern, cool, business woman wearing casual sneakers."
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+### 🚀 Resultados
+<img src="./assets/copilot-gif.gif" height="300">
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### 💭 Reflexão (Opcional)
+Para os perfeccionistas e atentos aos detalhes, ainda não é tão fácil conseguir que IAs reproduzam resultados visuais fidedignos à realidade. Isso, no entanto, deve mudar extremamente rápido, e em breve mesmo ferramentas de IA gratuitas terão capacidades assustadoras.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+#
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
